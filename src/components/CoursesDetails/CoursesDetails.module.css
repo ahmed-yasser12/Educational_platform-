@@ -1,0 +1,17 @@
+.bg{
+    background-color: #f13817 !important;
+}
+link , a {
+    text-decoration: none;
+    color: black !important;
+}
+*{
+    transition: all 0.4s;
+}
+span:hover{
+    background-color: rgba(128, 128, 128, 0.6);
+}
+.bgLogin{
+    background-color: rgba(230, 228, 228, 0.726);
+
+}

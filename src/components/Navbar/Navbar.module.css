@@ -1,0 +1,15 @@
+.textButton{
+    color: #f13817 !important;
+    border: 1px solid  rgba(128, 128, 128, 0.795);
+    transition: all 0.4s ;
+}
+.textButton:hover{
+    background-color: rgba(241, 56, 23, 0.4);
+}
+.bg{
+    background-color: #f13817 !important;
+}
+nav{
+    z-index: 9999;
+    border-bottom: solid rgba(193, 188, 188, 0.9) 1px ;
+}

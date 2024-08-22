@@ -1,0 +1,6 @@
+.HomePage{
+    background-image: url(../../Assets/Images/header-image.png);
+    background-position: center center ;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}

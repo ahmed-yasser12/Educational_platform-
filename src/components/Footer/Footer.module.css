@@ -1,0 +1,21 @@
+*{
+    transition: all 0.4s;
+}
+
+.buttonbg:hover{
+    background-color: rgba(93, 92, 92, 0.712);
+}
+.buttonbg{
+    transition: all 0.4s;
+}
+
+i:hover{
+    cursor: pointer;
+    background-color:  rgba(93, 92, 92, 0.712);
+    border-radius: 50%;
+}
+.line{
+    width: 40%;
+    height: 1px;
+    background-color: rgb(128, 128, 128,0.8);
+}
