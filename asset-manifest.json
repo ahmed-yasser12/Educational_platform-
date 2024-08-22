@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/Educational_platform-/static/css/main.f56bcadb.css",
+    "main.js": "/Educational_platform-/static/js/main.d61c6351.js",
+    "static/js/453.2df7c057.chunk.js": "/Educational_platform-/static/js/453.2df7c057.chunk.js",
+    "static/media/header-image.png": "/Educational_platform-/static/media/header-image.30be88c746365b9f8062.png",
+    "static/media/fa-solid-900.ttf": "/Educational_platform-/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
+    "static/media/3.jpg": "/Educational_platform-/static/media/3.8c1bee41b9e1ff72c223.jpg",
+    "static/media/1.jpg": "/Educational_platform-/static/media/1.3c276b379da7d3a575d9.jpg",
+    "static/media/4.jpg": "/Educational_platform-/static/media/4.dffa6c4a6e2e2ee6162b.jpg",
+    "static/media/5.jpg": "/Educational_platform-/static/media/5.3947db90a8999abaff69.jpg",
+    "static/media/2.jpg": "/Educational_platform-/static/media/2.d4cbdcbb3bbffff12272.jpg",
+    "static/media/6.jpg": "/Educational_platform-/static/media/6.f0bb8bb1c20e3810bbd3.jpg",
+    "static/media/fa-brands-400.ttf": "/Educational_platform-/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
+    "static/media/fa-solid-900.woff2": "/Educational_platform-/static/media/fa-solid-900.93f719f4d62bfa3e748c.woff2",
+    "static/media/fa-brands-400.woff2": "/Educational_platform-/static/media/fa-brands-400.bb8d5a145e22822103fb.woff2",
+    "static/media/fa-regular-400.ttf": "/Educational_platform-/static/media/fa-regular-400.17a6e1aebccdbaa39e78.ttf",
+    "static/media/fa-regular-400.woff2": "/Educational_platform-/static/media/fa-regular-400.bc3722686635b5f86132.woff2",
+    "static/media/fa-v4compatibility.ttf": "/Educational_platform-/static/media/fa-v4compatibility.0f6cb412603527bda691.ttf",
+    "static/media/logo-white.svg": "/Educational_platform-/static/media/logo-white.85a585193f596551464923718666d29d.svg",
+    "static/media/logo.svg": "/Educational_platform-/static/media/logo.b86bcee44b999add9f79f10c488cbfd6.svg",
+    "static/media/fa-v4compatibility.woff2": "/Educational_platform-/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
+    "index.html": "/Educational_platform-/index.html",
+    "main.f56bcadb.css.map": "/Educational_platform-/static/css/main.f56bcadb.css.map",
+    "main.d61c6351.js.map": "/Educational_platform-/static/js/main.d61c6351.js.map",
+    "453.2df7c057.chunk.js.map": "/Educational_platform-/static/js/453.2df7c057.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f56bcadb.css",
+    "static/js/main.d61c6351.js"
+  ]
+}
